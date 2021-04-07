@@ -62,5 +62,5 @@ Image Matting已經有不少學術論文和開源演算法，我們團隊將開�
 [3] http://host.robots.ox.ac.uk/leaderboard/displaylb.php?challengeid=11  
 
 ## download large size model from here:
-https://drive.google.com/open?id=1AwQyecC3I8lsYIjxRR4CuTfa5rMCOmGA  
-https://drive.google.com/open?id=1oTjRxUixcB2F8OiNrhjrRy92Dq7xXNsZ
+https://celloai-my.sharepoint.com/:u:/g/personal/jeremylai_openaifab_com/ETP6v1ct3vNAnouZvBEYWLQBevXuGVmO5Yf1tSrzvA5Hfg?e=yTyfFB  
+https://celloai-my.sharepoint.com/:u:/g/personal/jeremylai_openaifab_com/EQtY9hQtOl1On3GSRBDw-H4B3D7oxIi5lilIklCZRBku3Q?e=HMfJJ6  
